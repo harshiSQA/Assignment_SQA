@@ -1,0 +1,17 @@
+<!Doctype html>
+<html>
+	<head>
+		<title>CROSSWEB_EXAMPLE_1</title>
+		<script src="jquery-3.3.1.min.js"></script>
+		
+	</head>
+	<body>
+		<form name= "form1" id="form1" onsubmit="return myFunc();" method="GET" action="example.php" >
+		
+			Enter your Name:<input type="text" name="name1" id="name1"></td>
+			<input type="submit" id= "submit" value="Submit" onclick="">		
+			 
+		</form>
+		<!--<p>AA</p>-->
+	</body>
+</html>
